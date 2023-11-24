@@ -1,0 +1,234 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51954092940@s.whatsapp.net',
+    fromMe: false,
+    id: 'EEEA04739971C187F6',
+    participant: undefined
+  },
+  messageTimestamp: 1700846220,
+  pushName: 'GoDie',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51954092940'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7e222411-dcf1-4ab0-a38c-80622cbfe821',
+  keyword: 'key_b9bb8ad1-8e78-4611-a1be-111a94f5aa1d',
+  answer: 'Hola, bienvenido a Chat Bot de Mi Banco\n¿Como puedo ayudarte?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cd2dc80903c2255699f972c43f6b0be0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4c2b96aa-0c39-480c-b5db-60a80c27c677',
+  keyword: 'ans_7e222411-dcf1-4ab0-a38c-80622cbfe821',
+  answer: 'Estos son mis servicios:\n' +
+    '1 Analista Online\n' +
+    '2 Credito Mype\n' +
+    '3 Credito Pyme\n' +
+    '4 Credito Empresarial\n' +
+    '5 Credito Corporativo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a19e93b39c5b62ef634f5fafd30c0763'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7eca99a1-8d2b-4a27-9622-67b8791b31a9',
+  keyword: 'ans_4c2b96aa-0c39-480c-b5db-60a80c27c677',
+  answer: 'Digitame un numero para poder ayudarte:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cd80c3bdbe48be9971d71fccfa670c85'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51954092940@s.whatsapp.net',
+    fromMe: false,
+    id: '89CD66C7D41DF6364F',
+    participant: undefined
+  },
+  messageTimestamp: 1700846222,
+  pushName: 'GoDie',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '51954092940'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91877c8c-15f0-45ce-8e93-eb6775cfe819',
+  keyword: 'key_c36937af-ffe9-49ad-8c31-fb91b9fd81a4',
+  answer: 'Has seleccionado Analista Online \n' +
+    ' Permiteme verficar tus datos... \n' +
+    ' ¿Cual es el numero de tu DNI?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '53f6d80a80cdb9e2203d7bcbffc195e5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1b6fa43a-01cb-40c8-8a6f-8ca1fc64ba2a',
+  keyword: 'ans_91877c8c-15f0-45ce-8e93-eb6775cfe819',
+  answer: 'Resultado de Busqueda:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '825bcff3035f30ce5f3da4942ba18835'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_df649b27-f69e-4421-b294-944837b71867',
+  keyword: 'ans_1b6fa43a-01cb-40c8-8a6f-8ca1fc64ba2a',
+  answer: 'Este sera el analista a cargo...',
+  options: {
+    media: 'https://img.freepik.com/vector-premium/ilustracion-vector-estilo-diseno-plano-tarjeta-identificacion_545399-1236.jpg?size=626&ext=jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fddac30019f9b15ddb217e57fd4afe1c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51954092940@s.whatsapp.net',
+    fromMe: false,
+    id: '2B579BEBFC496F8C9B',
+    participant: undefined
+  },
+  messageTimestamp: 1700846232,
+  pushName: 'GoDie',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '72655593',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '72655593',
+  from: '51954092940'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91877c8c-15f0-45ce-8e93-eb6775cfe819',
+  keyword: 'key_c36937af-ffe9-49ad-8c31-fb91b9fd81a4',
+  answer: 'Has seleccionado Analista Online \n' +
+    ' Permiteme verficar tus datos... \n' +
+    ' ¿Cual es el numero de tu DNI?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '53f6d80a80cdb9e2203d7bcbffc195e5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1b6fa43a-01cb-40c8-8a6f-8ca1fc64ba2a',
+  keyword: 'ans_91877c8c-15f0-45ce-8e93-eb6775cfe819',
+  answer: 'Resultado de Busqueda:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '825bcff3035f30ce5f3da4942ba18835'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_df649b27-f69e-4421-b294-944837b71867',
+  keyword: 'ans_1b6fa43a-01cb-40c8-8a6f-8ca1fc64ba2a',
+  answer: 'Este sera el analista a cargo...',
+  options: {
+    media: 'https://img.freepik.com/vector-premium/ilustracion-vector-estilo-diseno-plano-tarjeta-identificacion_545399-1236.jpg?size=626&ext=jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fddac30019f9b15ddb217e57fd4afe1c'
+}
